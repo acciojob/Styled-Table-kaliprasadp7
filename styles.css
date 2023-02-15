@@ -1,1 +1,12 @@
-/* your code */
+
+thead{
+	background:darkblue;
+	color:white;
+	font-size:14px;
+}
+.grey{
+	background:grey
+}
+th, td{
+	padding-right:50px;
+}
